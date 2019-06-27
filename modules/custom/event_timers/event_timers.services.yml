@@ -1,0 +1,4 @@
+services:
+  event_timers.get_days_service:
+    class: Drupal\event_timers\Services\GetDaysService
+    arguments: []

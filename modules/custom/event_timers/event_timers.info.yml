@@ -1,0 +1,7 @@
+name: Event Timers
+type: module
+description: 'Timers for events module sidebar block'
+package: Development
+core: 8.x
+dependencies:
+  - block
